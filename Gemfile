@@ -8,5 +8,5 @@ gem "rspec", :group => :development
 gem "pry", :group => :development
 
 group :test do
-  gem "pry"
+
 end
